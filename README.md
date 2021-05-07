@@ -5,6 +5,8 @@
  3. Install Ganache 
  4. Clone the project.
  5. Run Ganache on port no 8545
- 6. Open terminal and go to project directory then type ./scripts/deploytodev.sh 
-then type: npm run dev
+ 6. Open terminal and go to project directory.
+ 7. Type:  ./scripts/deploytodev.sh 
+ 8. Type: npm run dev
+
 This will run this project on http://localhost:3000
